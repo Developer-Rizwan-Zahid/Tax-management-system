@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaxManagement.Api.props" />
+</Project>
